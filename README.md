@@ -5,6 +5,7 @@ Hier lernt ihr die Grundlagen zum Thema Webentwicklung.
 
 ## Nützliche Software
 #### Texteditor:  
-Atom [Download](https://atom.io/)  
+Visual Studio Code [Download](https://code.visualstudio.com/)
+
 #### Server & PHP:
 XAMPP [Download](https://www.apachefriends.org/de/index.html)
